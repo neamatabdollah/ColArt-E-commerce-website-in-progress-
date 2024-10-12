@@ -1,0 +1,1 @@
+import {cart} from '/javascript_projects/ColArt_project/cart.js';
